@@ -22,7 +22,7 @@ import xlsxwriter
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment
 
-from Calculation import Calculation
+from Main import Calculation
 
 # Define translation dictionaries
 translations = {
